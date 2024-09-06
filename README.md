@@ -70,8 +70,10 @@ Up/Down Counter (CTUD): The output should activate when the count reaches the pr
 (Add screenshots of the ladder logic and counter operations in the simulation software.)
 #### UP COUNTER (CTU):
 ![WhatsApp Image 2024-09-06 at 08 40 07_5bc26b42](https://github.com/user-attachments/assets/cef5b943-1dcd-4ba2-96b0-f9d791b590f1)
+
 #### DOWN COUNTER (CTD):
 ![WhatsApp Image 2024-09-06 at 08 44 24_ca1c91e0](https://github.com/user-attachments/assets/7feb9944-d1a3-4e46-9931-03c089f7d025)
+
 #### UP/ DOWN COUNTER (CTUD):
 ![WhatsApp Image 2024-09-06 at 09 27 14_c1af88ab](https://github.com/user-attachments/assets/f763a0dc-6ff6-4b0b-acff-fb4f666f6e97)
 
